@@ -1,0 +1,24 @@
+{
+  "name": "sasken",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditya-rao-1/web_testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aditya-rao-1/web_testing/issues"
+  },
+  "homepage": "https://github.com/Aditya-rao-1/web_testing#readme",
+  "dependencies": {
+    "playwright": "^1.54.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
